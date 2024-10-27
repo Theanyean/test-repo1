@@ -1,0 +1,16 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.card{
+    width: 300px;
+    height: 520px;
+}
+.modal-body{
+    background-color: aqua;
+}
+.modal-img-top{
+    width: auto;
+    height: 280px;
+}
